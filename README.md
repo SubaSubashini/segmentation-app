@@ -8,13 +8,13 @@ By analyzing customer data, the goal is to help businesses make data-driven mark
 
 🎯 Objective
 
-The main objective of this project is to:
+<li>The main objective of this project is to:
 
 Understand customer patterns and behaviors.
 
 Segment customers into meaningful groups using clustering algorithms.
 
-Provide insights for targeted marketing strategies and decision-making.
+Provide insights for targeted marketing strategies and decision-making.</li>
 
 
 <h1>🧠 Machine Learning Techniques</h1>
@@ -30,13 +30,11 @@ Dimensionality Reduction (Optional): PCA for visualization
 
 🧰 Tools & Technologies
 
-Category	Tools Used
-
-Programming Language	Python
+<li>Programming Language	Python
 Libraries	Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 IDE/Notebook	Jupyter Notebook / Google Colab
 Visualization	Power BI / Tableau (Optional)
-Version Control	Git, GitHub
+Version Control	Git, GitHub</li>>
 
 
 
@@ -47,7 +45,7 @@ Dataset Name: Mall Customers Dataset (or your dataset name)
 Source: Kaggle / Company Database / Open Data Repository
 
 
-Attributes:
+<h3>Attributes:<h3>
 
 Customer ID
 
@@ -60,9 +58,7 @@ Annual Income
 Spending Score
 
 
-
-
-⚙️ Project Workflow
+<h3>⚙️ Project Workflow</h3>
 
 1. Data Collection – Load and explore dataset.
 
@@ -89,12 +85,9 @@ Spending Score
 
 
 
-
----
-
 📊 Results & Insights
 
-Identified 4 distinct customer segments based on income and spending behavior.
+<li>Identified 4 distinct customer segments based on income and spending behavior.
 
 Business can:
 
@@ -102,17 +95,14 @@ Focus marketing campaigns on high-value customers.
 
 Offer discounts to price-sensitive customers.
 
-Improve engagement among moderate spenders.
+Improve engagement among moderate spenders.</li>
 
 
-
-
----
 
 🚀 How to Run the Project
 
 # Clone the repository
-git clone https://github.com/yourusername/customer-segmentation.git
+git clone https:
 
 # Navigate to the project folder
 cd customer-segmentation
@@ -124,7 +114,6 @@ pip install -r requirements.txt
 jupyter notebook
 
 
----
 
 📈 Visualization Samples
 
@@ -136,8 +125,8 @@ Elbow method / Silhouette score graphs
 
 PCA-based visualizations
 
+<a href="https://segmentationcus-app.streamlit.app/">DEPLOYEMENTATION APP LINK</a>
 
-(You can upload images in a folder like /images/ and link them here)
 
 
 ---
@@ -170,8 +159,6 @@ Incorporate additional behavioral features (like frequency, recency, etc.).
 
 
 
----
-
 📚 References
 
 Kaggle - Mall Customer Segmentation Data
@@ -184,12 +171,10 @@ Seaborn
 
 
 
----
+<h1>👩‍💻 Author</h1>
 
-👩‍💻 Author
-
-Subashini M
-📧 [Your Email or LinkedIn link here]
+<h3>Subashini M</h3>
+📧 [<a href ="https://www.linkedin.com/in/subashini-mani-76b90b280">LinkedIN</a>
 💼 LinkedIn Profile
 ⭐ If you like this project, give it a star on GitHub!
 
